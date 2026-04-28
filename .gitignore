@@ -1,0 +1,17 @@
+# Android
+android/.gradle/
+android/local.properties
+android/**/build/
+android/.idea/
+
+# Windows/.NET
+windows/**/bin/
+windows/**/obj/
+*.user
+*.suo
+
+# Common
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
